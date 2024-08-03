@@ -1,0 +1,22 @@
+Jenkins:
+It is an open source automation server for continuos integration and continuous delivery.
+We can share our local machine's automation testing project via jenkins
+Other automations testers can run the script via jenkins.
+Local machine's code must be moved to a central location like repository(git) where jenkins can access it.
+It is an environment.
+It is used execute the project.
+Jenkins will automatically execute the project(job) whenever commit happens.
+
+Famous repository:
+Svn- old
+Git - new
+
+GIT GUI - USER INTERFACE
+GIT BASH - COMMAND PROPMT
+
+git clone <address>
+git add .
+git config --global user.email "selvakumarsubramaniant@gmail.com"
+git config --global user.name "SELVAKUMAR S"
+git commit -m "Message"
+git push
